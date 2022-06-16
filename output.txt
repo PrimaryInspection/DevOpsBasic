@@ -1,0 +1,6 @@
+lvl 10
+There are some files in this repository, how many of the files will be committed?
+lvl 20
+Commit your changes with the future date (e.g. tomorrow).
+lvl 30
+Someone has put a password inside the file config.rb find out who it was.
